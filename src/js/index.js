@@ -1,7 +1,8 @@
 //tasl 1
 const age = 14;
-console.log(14);
+console.log(age);
 //task 2
+const name = "filip";
 console.log("filip");
 //task 3
 const isStudent = "Ви студент?";
@@ -11,12 +12,12 @@ console.log(isConfirmated);
 const myString = "«Якщо мушу обирати між меншим і більшим злом — я не обираю.»";
 console.log(myString);
 //task 5
-const myNumber = 3;
+let myNumber = 3;
 console.log(typeof 3);
 console.log(myNumber === 10);
 console.log(3 + 7);
 //task 6
-const myNull = "null";
+const myNull = null;
 console.log(null);
 //task 7
 const quastionMessage = "Вкажіть свож імʼя ";
