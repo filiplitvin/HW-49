@@ -3,7 +3,7 @@ const age = 14;
 console.log(age);
 //task 2
 const name = "filip";
-console.log("filip");
+console.log(name);
 //task 3
 const isStudent = "Ви студент?";
 const isConfirmated = confirm(isStudent);
@@ -13,9 +13,8 @@ const myString = "«Якщо мушу обирати між меншим і бі
 console.log(myString);
 //task 5
 let myNumber = 3;
-console.log(typeof 3);
-console.log(myNumber === 10);
-console.log(3 + 7);
+myNumber = myNumber + 10;
+console.log(myNumber);
 //task 6
 const myNull = null;
 console.log(null);
